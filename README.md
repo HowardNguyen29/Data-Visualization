@@ -1,1 +1,5 @@
 # Data-Visualization
+
+In today's data-driven world, organizations are inundated with vast amounts of data from various sources. To make sense of this data and derive actionable insights, effective preprocessing and visualization techniques are essential. In this project, I propose to utilize big data tools such as Spark and Snowflake, hosted on Azure VM, to preprocess and analyze the AdventureWorks dataset from Microsoft. By applying data cleaning, transformation, and feature engineering techniques, the data was prepared for analysis. Subsequently, leveraging Tableau's powerful visualization capabilities, I created interactive dashboards and visualizations to explore and communicate key insights derived from the data. This project aimed to empower me to unlock the value of the study data, enabling data-driven decision-making and driving business growth.
+
+![facebook-restaurant-app-2](https://github.com/HowardNguyen29/Data-Visualization/assets/144277909/a333fe03-e8f3-41a9-88ed-9a0082504af7)
